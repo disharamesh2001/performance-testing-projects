@@ -17,7 +17,7 @@ Each `.jmx` file demonstrates a specific JMeter concept such as JSON extraction,
 | **Task 6 - Timers.jmx** | Illustrates usage of JMeter timers (Constant, Gaussian, Poisson) to control user pacing. |
 | **Task 7 - If Controller (Task 7).jmx** | Another example of conditional execution for dynamic workflow testing. |
 | **Task 8 - HTTPS Script Recorder (Task 8).jmx** | Additional example of recording HTTP/HTTPS traffic for different test scenarios. |
-| **HTTP CONFIG ELEMENTS.jmx** | Examples of JMeter configuration elements such as CSV Data Set, HTTP Header Manager, and User Defined Variables. |
+| **HTTP Config elements.jmx** | Examples of JMeter configuration elements such as CSV Data Set, HTTP Header Manager, and User Defined Variables. |
 | **Assertions and Listeners.jmx** | Shows use of response assertions and listeners like Summary Report, Aggregate Report, and View Results Tree. |
 | **Basic Authentication.jmx** | Demonstrates HTTP Basic Authentication setup for protected endpoints. |
 | **Correlation.jmx** | Example of extracting dynamic values (tokens, session IDs) using Regular Expression Extractor for correlated requests. |
